@@ -206,10 +206,6 @@ ProfBut4:SetScript("OnLeave", function() GameTooltip:Hide() end)
 SLASH_BRONT1, SLASH_BRONT2 = '/brontbar', '/bb' 
 function brontbar_SlashHandler(param1, editbox) 
 
-if(param1 == 'riksha')
-	then
-		print("С добрым утром, Катю") 
-	end 
 if(param1 == '2')
 	then
 		SendChatMessage(Bront[1], "CHANNEL", nil, "2");
