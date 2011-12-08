@@ -1,0 +1,9 @@
+﻿## Interface: 40300
+## Title: |cff1784d1ElvUI BrontBar|r
+## Notes: Специально для Рикши
+## Author: Bront
+## RequiredDeps: ElvUI
+## Version: 1.0
+## SavedVariables: Bront
+
+BrontBar.lua
